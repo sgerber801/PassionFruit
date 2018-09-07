@@ -1,0 +1,9 @@
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  background-color: grey;
+  padding: 20px 50px;
+  flex: 0 1 auto;
+} 
